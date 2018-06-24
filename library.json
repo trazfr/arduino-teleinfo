@@ -1,0 +1,13 @@
+{
+    "name": "Teleinfo",
+    "keywords": "serial, enedis, erdf, teleinfo",
+    "description": "Bufferless implementation of the Teleinfo protocol for Arduino.",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/trazfr/teleinfo.git"
+    },
+    "version": "0.0.1",
+    "frameworks": "arduino",
+    "platforms": "*"
+}

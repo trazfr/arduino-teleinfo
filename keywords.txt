@@ -1,0 +1,13 @@
+# Datatypes (KEYWORD1)
+
+TeleInfo KEYWORD1
+Historical KEYWORD1
+Standard KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+
+get_P KEYWORD2
+begin KEYWORD2
+end KEYWORD2
+waitForFrame KEYWORD2
+read KEYWORD2
