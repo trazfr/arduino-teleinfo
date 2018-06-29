@@ -5,7 +5,7 @@
     "repository":
     {
       "type": "git",
-      "url": "https://github.com/trazfr/teleinfo.git"
+      "url": "https://github.com/trazfr/arduino-teleinfo.git"
     },
     "version": "0.0.1",
     "frameworks": "arduino",
